@@ -37,7 +37,7 @@ Verified academic faculty can apply for {% data variables.product.prodname_team 
 
 ## Discounts for nonprofits and libraries
 
-{% data variables.product.product_name %} provides free {% data variables.product.prodname_team %} for organizations with unlimited private repositories, unlimited collaborators, and a full feature set to qualifying 501(c)3 (or equivalent) organizations and libraries. You can request a discount for your organization on [our nonprofit page](https://github.com/nonprofit).
+{% data variables.product.product_name %} provides free {% data variables.product.prodname_team %} for organizations with unlimited private repositories, unlimited collaborators, and a full feature set to qualifying 501(c)3<href src="https://www.irs.gov/charities-non-profits/charitable-organizations/exempt-purposes-internal-revenue-code-section-501c3"></href> (or equivalent) organizations and libraries. You can request a discount for your organization on [our nonprofit page](https://github.com/nonprofit).
 
 If your organization already has a paid plan, your organization's last transaction will be refunded once your nonprofit discount has been applied.
 
